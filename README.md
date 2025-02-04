@@ -1,5 +1,5 @@
 
-# **Health Tracker**  
+# **Health Challenge Tracker**  
 
 A web application built with Angular to track users' workout progress and related activities.
 
