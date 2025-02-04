@@ -1,6 +1,3 @@
-Here's a README file for your Angular project:
-
----
 
 # **Health Tracker**  
 
